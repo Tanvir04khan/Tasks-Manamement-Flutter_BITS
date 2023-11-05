@@ -1,4 +1,4 @@
-# KHAN TAUQEER AHMED KAREEM
+# KHAN MOHAMMED TANVIR KARIM
 
 Cross Platform Application Development
 BITS Pilani
