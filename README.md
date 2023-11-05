@@ -45,6 +45,7 @@ Please consider our Assignment.
 - Clone This repository.
 - Open Project in VS Code.
 - Download ".env" and "todo_back4app.iml" files from below and copy them in the root directory of the project.
+- Make sure that copied ".env" file has "." in prefix sometimes when downloading it defailts to "env" only without "." prefix. if not simply rename it to ".env".
 - Download android.zip file from below and extract/copy them into [project]/android folder.
 - Run "flutter pub get" in terminal to install packages.
 - Open lib/main.dart.
